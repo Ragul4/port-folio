@@ -1,0 +1,19 @@
+.header{
+    font-size: 40px;
+    display: flex;
+    text-align: center;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(1, 1, 1);
+    top:0;
+    position: sticky;    
+    text-shadow: 0 0 5px #fff,
+               0 0 10px #fff, 
+               0 0 20px rgb(228, 4, 49), 
+               0 0 30px rgb(210, 126, 9), 
+               0 0 40px rgb(234, 255, 4), 
+               0 0 55px rgb(19, 22, 215), 
+               0 0 70px rgb(14, 8, 145);
+}
